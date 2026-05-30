@@ -5,12 +5,12 @@
 $backend_data = [
 
     // --- Page Meta Information ---
-    'page_title'        => 'Hypixel Minecraft Adventure', // Title for the browser tab
+    'page_title'        => 'WoundSMP', // Title for the browser tab
 	
     // --- Main Text Section ---
-    'main_title'        => 'Epic Minecraft<br>Adventure Awaits',
-    'subtitle_text'     => 'Join thousands of players in the ultimate Minecraft experience.',
-    'description_text'  => 'Explore mystical seas, soar through clouds, and build your dream farm. Connect and conquer!',
+    'main_title'        => 'WoundSMP',
+    'subtitle_text'     => '',
+    'description_text'  => 'Join a new Economy SMP today!',
 
     // --- Button Text Section ---
     'store_button_text'   => 'Store (In Progress)',
