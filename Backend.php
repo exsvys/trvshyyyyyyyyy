@@ -14,15 +14,15 @@ $backend_data = [
 
     // --- Button Text Section ---
     'store_button_text'   => 'Store (In Progress)',
-    'store_button_url'    => 'https:/woundsmp.site', // Add your store URL here
+    'store_button_url'    => '', // Add your store URL here
     'discord_button_text' => 'Discord',
     'discord_button_url'  => 'https://discord.gg/Rqp33c54Yc', // Add your Discord invite URL here
     'play_button_text'    => 'Play Now',
 
     // --- Server Information Section ---
-    'server_ip'         => 'play.WoundSMP.site', // Server IP Address
+    'server_ip'         => 'WoundSMP.xyz', // Server IP Address
     'minecraft_version' => '1.8x - 1.21+',   // Supported Minecraft versions
-    'api_url'           => 'https://api.mcsrvstat.us/3/play.woundsmp.site' // Delete Hypixel.net ip and change it to your server ip
+    'api_url'           => 'https://api.mcsrvstat.us/3/woundsmp.xyz' // Delete Hypixel.net ip and change it to your server ip
 
 //  													 ***EXAMPLE***
 //  'api_url'           => 'https://api.mcsrvstat.us/3/<Your server IP>' // Delete Hypixel.net ip and change it to your server ip
